@@ -2,6 +2,15 @@
 
 1 Vilka datatyper har JavaScript?
 
+- skriv ner vad nedanstående är för datatyper:
+  - 10
+  - ‘false’
+  - '100' / 10
+  - 1 < 2
+  - cat
+  - ‘Christoffer’ - 5
+  - 'B' > 'A'
+
 2 Vad blir resultatet av följande uttryck? (Svara med värde och datatyp. Använd typeof för att ta reda på vilken datatyp det blir, om du är osäker.)
 
 a) 1 + 1
